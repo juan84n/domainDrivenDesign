@@ -1,0 +1,17 @@
+C:\Users\Asus\Documents\nubank_project\nubank\src\main\java\com\nubank\domain\model\Transaction.java
+C:\Users\Asus\Documents\nubank_project\nubank\src\main\java\com\nubank\domain\model\Account.java
+C:\Users\Asus\Documents\nubank_project\nubank\src\main\java\com\nubank\infrastructure\shared\transformer\UtilTransform.java
+C:\Users\Asus\Documents\nubank_project\nubank\src\main\java\com\nubank\infrastructure\shared\dto\AuthorizationDto.java
+C:\Users\Asus\Documents\nubank_project\nubank\src\main\java\com\nubank\domain\model\Authorization.java
+C:\Users\Asus\Documents\nubank_project\nubank\src\main\java\com\nubank\domain\service\dependency\TransactionRepositoryI.java
+C:\Users\Asus\Documents\nubank_project\nubank\src\main\java\com\nubank\domain\service\BusinessRules.java
+C:\Users\Asus\Documents\nubank_project\nubank\src\main\java\com\nubank\infrastructure\shared\UtilApp.java
+C:\Users\Asus\Documents\nubank_project\nubank\src\main\java\com\nubank\infrastructure\persistence\TransactionRepositoryMemory.java
+C:\Users\Asus\Documents\nubank_project\nubank\src\main\java\com\nubank\infrastructure\shared\dto\TransactionDto.java
+C:\Users\Asus\Documents\nubank_project\nubank\src\main\java\com\nubank\infrastructure\shared\dto\AccountDto.java
+C:\Users\Asus\Documents\nubank_project\nubank\src\main\java\com\nubank\domain\service\TransactionService.java
+C:\Users\Asus\Documents\nubank_project\nubank\src\main\java\com\nubank\domain\service\AccountService.java
+C:\Users\Asus\Documents\nubank_project\nubank\src\main\java\com\nubank\application\Controller.java
+C:\Users\Asus\Documents\nubank_project\nubank\src\main\java\com\nubank\Application.java
+C:\Users\Asus\Documents\nubank_project\nubank\src\main\java\com\nubank\domain\service\dependency\AccountRepositoryI.java
+C:\Users\Asus\Documents\nubank_project\nubank\src\main\java\com\nubank\infrastructure\persistence\AccountRepositoryMemory.java
